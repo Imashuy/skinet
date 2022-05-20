@@ -3,6 +3,9 @@
         "ASPNETCORE",
         "Autoincrement",
         "Dtos",
+        "notfound",
+        "servererror",
         "skinet"
-    ]
+    ],
+    "csharpextensions.privateMemberPrefix": "_"
 }
