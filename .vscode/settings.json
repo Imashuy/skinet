@@ -7,5 +7,6 @@
         "servererror",
         "skinet"
     ],
-    "csharpextensions.privateMemberPrefix": "_"
+    "csharpextensions.privateMemberPrefix": "_",
+    "workbench.colorTheme": "Dark Atom Dark Green Cursor"
 }

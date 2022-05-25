@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "angular-font-awesome": "^3.1.2",
+    "flask-cors": "^0.0.1",
+    "font-awesome": "^4.7.0"
+  }
+}
